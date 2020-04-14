@@ -1,0 +1,14 @@
+[{
+        "id": 0,
+        "info": "打了一天代码.",
+        "done": true
+    },
+    { "id": 1, "info": "看一个电影.", "done": false },
+    {
+        "id": 2,
+        "info": "完成十个深蹲.",
+        "done": true
+    },
+    { "id": 3, "info": "早起晚睡.", "done": false },
+    { "id": 4, "info": "一天喝八杯水.", "done": false }
+]
